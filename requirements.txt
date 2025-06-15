@@ -1,8 +1,8 @@
-tensorflow
-keras
-streamlit
-pillow
-matplotlib
-numpy
-pandas
-protobuf
+tensorflow==2.10.1
+keras==2.10.0
+streamlit==1.22.0
+pillow==9.5.0
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.0.2
+protobuf==3.19.6
