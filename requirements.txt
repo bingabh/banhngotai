@@ -1,0 +1,8 @@
+tensorflow
+keras
+streamlit
+pillow
+matplotlib
+numpy
+pandas
+protobuf
